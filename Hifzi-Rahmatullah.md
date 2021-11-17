@@ -1,43 +1,92 @@
 # Tugas-Praktikum-Python-3
 
-- ### PROGRAM 
+- ### PROGRAM TABEL HARGA BENSIN
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ### PROGRAM 
+- ### PROGRAM DERET GEOMETRI
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ### PROGRAM 
+- ### PROGRAM NILAI TOTAL DAN NILAI RATA-RATA
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ### PROGRAM 
+- ### PROGRAM MENGHITUNG PERPANGKATAN
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ### PROGRAM 
+- ### PROGRAM NILAI FAKTORIAL
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ### PROGRAM 
+- ### PROGRAM TEBAK ANGKA
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
+
+- ### PROGRAM DERET ANGKA
+
+> ### Source Code<br>
+<br>
+> ### Hasil Output<br>
+
+
+- ### PROGRAM PERULANGAN TERSARANG
+
+> ### Source Code<br>
+<br>
+> ### Hasil Output<br>
+
+
+- ### Bentuk 1
+
+> ### Source Code<br>
+<br>
+> ### Hasil Output<br>
+
+
+- ### Bentuk 2
+
+> ### Source Code<br>
+<br>
+> ### Hasil Output<br>
+
+
+- ### Bentuk 3
+
+> ### Source Code<br>
+<br>
+> ### Hasil Output<br>
+
+
+- ### Bentuk 4
+
+> ### Source Code<br>
+<br>
+> ### Hasil Output<br>
+
+
+- ### Bentuk 5
+
+> ### Source Code<br>
+<br>
+> ### Hasil Output<br>
+
 
